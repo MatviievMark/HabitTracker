@@ -1,5 +1,9 @@
-token = "erer329h4bfidf"
-username = "matviiev"
+# your own token
+token = "xxxxxxx"
+
+#your username 
+
+username = "xxxxxxx"
 pixela_endpoint = "https://pixe.la/v1/users"
 
 
@@ -10,7 +14,7 @@ user_params = {
     "notMinor": "yes",
 }
 
-
+# your graph name
 graph_id = "graph1"
 
 
